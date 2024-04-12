@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 刘子滔
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Zitao Liu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zitao
+last_name: Liu
 
 # Status emoji
 status:
